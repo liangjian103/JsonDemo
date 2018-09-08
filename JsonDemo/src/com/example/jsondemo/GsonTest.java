@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2014, 青岛司通科技有限公司 All rights reserved.
+ * Copyright (c) 2014, 青岛司通科技有限公司 All rights reserved.带着公司名的代码 上传到了github上是不是不太安全，泄露寂寞。
  * File Name：GsonTest.java
  * Version：V1.0
  * Author：zhaokaiqiang
